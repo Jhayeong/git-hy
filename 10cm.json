@@ -1,0 +1,12 @@
+{
+  "name": "10cm",
+  "members": [
+    "권정열"
+  ],
+  "company": "magic sound",
+  "genre": "indie",
+  "albums": {
+    "regular": 4,
+    "singles_ep": 6
+  }
+}
